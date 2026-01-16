@@ -1,6 +1,6 @@
 <div align="center">
 
-# GET SHIT DONE
+# GET WORK DONE
 
 **A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.**
 
@@ -21,7 +21,7 @@ npx get-shit-done-cc
 
 <br>
 
-![GSD Install](assets/terminal.svg)
+![GWD Install](assets/terminal.svg)
 
 <br>
 
