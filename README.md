@@ -14,7 +14,7 @@
 <br>
 
 ```bash
-npx get-shit-done-cc
+npx get-work-done-cc
 ```
 
 **Works on Mac, Windows, and Linux.**
