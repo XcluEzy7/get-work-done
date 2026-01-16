@@ -1,15 +1,18 @@
 {
-  "name": "get-shit-done-cc",
+  "name": "get-work-done-cc",
   "version": "1.5.15",
   "description": "A meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
   "bin": {
-    "get-shit-done-cc": "bin/install.js"
+    "get-work-done-cc": "bin/install.js"
   },
   "files": [
     "bin",
-    "commands",
-    "get-shit-done",
-    "agents"
+    "commands/gwd",
+    "get-work-done",
+    "agents",
+    "GWD-STYLE.md",
+    "CHANGELOG.md",
+    "LICENSE"
   ],
   "keywords": [
     "claude",
@@ -17,13 +20,15 @@
     "ai",
     "meta-prompting",
     "context-engineering",
-    "spec-driven-development"
+    "spec-driven-development",
+    "get-work-done",
+    "gwd"
   ],
   "author": "TÂCHES",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/glittercowboy/get-shit-done.git"
+    "url": "git+https://github.com/XcluEzy7/get-work-done.git"
   },
   "engines": {
     "node": ">=16.7.0"
